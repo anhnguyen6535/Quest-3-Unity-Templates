@@ -16,6 +16,7 @@ To use the correct template, refer to the following:
 ## Set up the Oculus PC app
 - Set Oculus as active in Oculus app > General
 - Enable Developer runtime feature in Oculus app > Beta
+- Enable Passthrough over Oculus link in Oculus app > Beta   (only needed for MR)
   
 ## Debug Suggestions:
 - Update the Oculus app and Oculus to the latest version
