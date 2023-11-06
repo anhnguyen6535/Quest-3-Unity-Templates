@@ -1,9 +1,9 @@
 # Quest-3-Unity-Templates
 
-To use the correct template, refer to the following:
+To use the correct template, choose the correct scene:
 
-- **main**: Default project with VR features using Quest 3.
-- **Default_Project_Mix_Reality**: Default project incorporating Mixed Reality using Quest 3.
+- **VR**: Default project with VR features using Quest 3.
+- **MR**: Default project incorporating Mixed Reality using Quest 3.
 
 ## Requirements:
 - Unity version 2022 LTS (version 2022.3.11.f1) or later
