@@ -30,4 +30,4 @@ To use the correct template, refer to the following:
 - Make sure Oculus Integration is version 57.0 or later
 
 ## References:
-- [YouTube Tutorial](https://www.youtube.com/watch?v=D8_vdJG0UZ8)
+- [Valem Tutorials](https://www.youtube.com/watch?v=D8_vdJG0UZ8)
